@@ -11,8 +11,13 @@ This the agenda of all topics that will be involved spanning all new enhancement
 
 4  Omnichannel
 
+5  Supervisor experiences
 
+6  Teams integration
 
+7  Unified routing
+  .  Show number of users in queues in routing rules setup
+  .  Enhancements in assignment diagnostic
 
 
 
